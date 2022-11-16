@@ -3706,8 +3706,8 @@ border-bottom: 1px dashed;width: 142px;padding-left: 17px;">
     position: absolute;
     margin-left: -26px;
     margin-top: 7px;
-    ">@ALL_SOURCESBR_OFC</div>
-    <div id="dontconnect" class="presshere">VIROU MOD - @VEM_BRABO</div>
+    ">DRAGON NET OFC</div>
+    <div id="dontconnect" class="presshere">CONECTANDO VOCÊ, AO MUNDO!</div>
     <div id="connecting" class="presshere"><div class="lds-dual-ring"></div>Conectando</div>
     <div id="connected" class="presshere">Conexão Estabelecida</div>
 </div><div id="withoutlogin" class="header">
